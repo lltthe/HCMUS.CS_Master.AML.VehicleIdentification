@@ -1,0 +1,11 @@
+/.vscode
+/data
+/models
+/*.zip
+/*.rar
+/__pycache__
+/*.pdf
+/pdf
+/*.docx
+/*.pptx
+/\[others\]
